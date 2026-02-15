@@ -1,5 +1,5 @@
-# 💫 About Me:
-Senior AI Token Incinerator building things<br>Defi Rookie Researchers<br>buidling things i want and ppl want<br><br>
+# GM World:
+I am Sarthi<br>Senior AI Token Incinerator building things<br>Defi Rookie Researchers<br>buidling things i want and ppl want<br><br>
 
 
 ## 🌐 Socials:
