@@ -1,60 +1,18 @@
-![Masumi Logo](BANNER.png)
+# 💫 About Me:
+Senior AI Token Incinerator building things<br>Defi Rookie Researchers<br>buidling things i want and ppl want<br><br>
 
-# Masumi
 
-Masumi is a groundbreaking blockchain protocol built on Cardano, designed to enable the **AI Agent Economy**. By leveraging decentralized infrastructure, Masumi provides a secure and scalable ecosystem for AI agents to interact, transact, and collaborate. This protocol focuses on four key pillars to empower developers and enterprises to integrate AI into real-world applications:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sarthib7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarthi-borkar-007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sarthib7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eth.sarthi@gmail.com) 
 
-1. **Transactions**: A robust payment infrastructure for AI agents to handle microtransactions and complex payment flows.
-2. **Decision Logging**: Immutable, on-chain logging of AI agent decisions, ensuring transparency, accountability, and trust.
-3. **Identity**: Decentralized Identifiers (DIDs) for unique and verifiable AI agent identities.
-4. **Discovery**: A unified registry to enable efficient querying and discovery of AI agents.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarthib7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sarthib7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthib7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Why Masumi?
+---
+[![](https://visitcount.itsvg.in/api?id=sarthib7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Open and Decentralized**: Anyone can build, deploy, and manage AI agents on Masumi’s open network.
-- **Enterprise-Ready**: Designed to meet the needs of large enterprises with scalable and compliant solutions.
-- **Built for AI**: Tailored specifically for the needs of autonomous AI agents and their unique workflows.
-
-## Repositories
-
-| Category                     | Repository Name | Description |
-|------------------------------|------------------------------------------------|-------------------------------------------------------------|
-| **Masumi Core**              | [masumi-registry-service](https://github.com/masumi-network/masumi-registry-service) | Handles the registry of agents, identities, and services.  |
-|                              | [masumi-payment-service](https://github.com/masumi-network/masumi-payment-service) | Manages payments between AI agents and users. |
-|                              | [masumi-explorer](https://github.com/masumi-network/masumi-explorer) | Blockchain explorer for tracking transactions and logs. |
-|                              | [masumi-services-dev-quickstart](https://github.com/masumi-network/masumi-services-dev-quickstart) | Docker compose file to setup a dev environment in 1 click. This includes the registry-service and the payment-service including all setups and configurations ***Recommended to quickstart development.***
-| **Masumi Examples & Tutorials** | [crewai-masumi-quickstart-template](https://github.com/masumi-network/crewai-masumi-quickstart-template) | This CrewAI Masumi Starter Kit lets you quickly deploy your own CrewAI agents and integrate them with Masumi’s decentralized payment solution. | 
-|                              | [crewai-coding-mentor-agent](https://github.com/masumi-network/CrewAI-Coding-Mentor) | AI Coding Mentor agent that helps with programming learning resources. | 
-|                              | [crewai-seo-agent](https://github.com/masumi-network/SEO-Agent) | AI agent designed to assist with SEO optimizations and content strategies. |
-|                              | [agno-masumi-reference-implementations](https://github.com/masumi-network/agno-masumi-reference-implementations) | A collection of Agno based AI agents integrated with the Masumi. |
-| **Sokosumi**                 | [sokosumi](https://github.com/masumi-network/sokosumi) | Marketplace for AI Agnets. |
-| **Kodosumi**                 | [kodosumi](https://github.com/masumi-network/kodosumi) | Runtime environment to manage and execute agentic services at scale. |
-|                              | [kodosumi-examples](https://github.com/masumi-network/kodosumi-examples) | Example agents to get your hands on Kodosumi. |
-|                              | [kodo-masu-connector-2.0](https://github.com/masumi-network/kodo-masu-connector-2.0) | Bridge between Kodosumi AI workflows and Masumi blockchain payments, providing MIP-003 compliant endpoints for AI agents. |
-| **Integrations**             | [n8n-nodes-masumi-payment](https://github.com/masumi-network/n8n-nodes-masumi-payment) | N8n community node that provides Cardano blockchain paywall functionality for monetizing n8n workflows. |
-| **Other**                    | [masumi-docs](https://github.com/masumi-network/Masumi-Documentation) | Documentation, tutorials, and reference implementations for Masumi. |
-|  | [mcp-server](https://github.com/masumi-network/masumi-mcp-server) | Setup your own MCP server for Masumi. |
-|                              | [pip-masumi](https://github.com/masumi-network/pip-masumi) | PIP package for interacting with the Masumi Node. |
-|                              | [masumi-improvement-proposals](https://github.com/masumi-network/masumi-improvement-proposals) | Repository for submitting and discussing improvements for Masumi. |
-| **Cardano**                  | [cardano-toolbox](https://github.com/masumi-network/cardano-toolbox) | Command-line tools for Cardano blockchain interactions and Masumi payment system integration. |
-
-## Contribute
-We welcome contributions to make Masumi even better!
-
-## Smart Contract Addresses
-
-- Masumi Payment Contract (Preprod): [addr_test1wz7j4kmg2cs7yf92uat3ed4a3u97kr7axxr4avaz0lhwdsqukgwfm](https://preprod.cardanoscan.io/address/addr_test1wz7j4kmg2cs7yf92uat3ed4a3u97kr7axxr4avaz0lhwdsqukgwfm)
-- Masumi Payment Contract (Mainnet): [addr1wx7j4kmg2cs7yf92uat3ed4a3u97kr7axxr4avaz0lhwdsq87ujx7](https://cardanoscan.io/address/addr1wx7j4kmg2cs7yf92uat3ed4a3u97kr7axxr4avaz0lhwdsq87ujx7)
-- Masumi Registry Policy ID (Preprod): [7e8bdaf2b2b919a3a4b94002cafb50086c0c845fe535d07a77ab7f77](https://preprod.cardanoscan.io/tokenPolicy/7e8bdaf2b2b919a3a4b94002cafb50086c0c845fe535d07a77ab7f77)
-- Masumi Registry Policy ID (Mainnet): [ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9](https://cardanoscan.io/tokenPolicy/ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9)
-
-## Community and Support
-- **Documentation**: [Masumi Docs](https://docs.masumi.network)
-- **Explorer**: [Masumi Explorer](https://explorer.masumi.network)
-- **Website**: [Masumi Website](https://masumi.network)
-- **Website**: [Kodosumi Website](https://kodosumi.io)
-- **Website**: [Sokosumi Agent Marketplace](https://sokosumi.com)
-- **Telegram**: [Chat with Us](https://t.me/+N170PK0X4nA4MDA6)
-- **Discord**: [Chat with Us](https://discord.com/invite/aj4QfnTS92)
-
-Masumi is more than just a blockchain protocol; it’s the foundation of a decentralized AI-powered future. Join us in shaping the AI Agent Economy!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
