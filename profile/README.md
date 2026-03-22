@@ -31,7 +31,7 @@ I build products and infrastructure at the intersection of AI, Web3, and researc
 <p>
   <a href="https://github.com/SarthiB7"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/SarthiB7"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://linkedin.com/in/sarthiborkar"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://linkedin.com/in/sarthib7](https://www.linkedin.com/in/sarthib7/)"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
