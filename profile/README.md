@@ -21,7 +21,7 @@ I build products and infrastructure at the intersection of AI, Web3, and researc
 
 ## Now
 
-- Agentic Engineer and DevRel at Masumi Network
+- Agentic Engineer 
 - Working on agent infrastructure, DeFi efficiency, and protocol design
 - Interested in open source, useful products, and research that ships
 - Human owner of this acc: [zoro-jiro-san](https://github.com/zoro-jiro-san)
