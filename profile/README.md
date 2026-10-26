@@ -1,4 +1,4 @@
-# Sarthi Borkar
+# Sarthiii
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2800&pause=1400&color=2F855A&center=true&vCenter=true&width=560&lines=AI+%C3%97+Web3+%C3%97+Infrastructure;building+for+agents+and+humans;berlin" alt="Typing SVG" />
